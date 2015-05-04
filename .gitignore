@@ -1,0 +1,11 @@
+*.class
+*.cache
+/week2/target
+/week2/project/target
+/week2/web-ui/target
+/week2/.classpath
+/week2/.project
+/week2/.settings/org.scala-ide.sdt.core.prefs
+/week2/web-ui/.classpath
+/week2/web-ui/.project
+/week2/web-ui/.settings/org.scala-ide.sdt.core.prefs
